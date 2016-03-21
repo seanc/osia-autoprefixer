@@ -6,7 +6,7 @@
   },
   "name": "osia-autoprefixer",
   "author": "Sean Wilson",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Autoprefixer plugin for Osia",
   "main": "lib",
   "repository": {
