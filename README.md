@@ -19,7 +19,7 @@ osia.task('autoprefix', () => {
 ```
 
 ### Options
-osia-autoprefixer uses postcss's autoprefixer natively, so you can pass options to it just as you would autoprefixer.
+osia-autoprefixer uses postcss's [autoprefixer](https://github.com/postcss/autoprefixer) natively, so you can pass options to it just as you would autoprefixer.
 
 Example:
 ```javascript
